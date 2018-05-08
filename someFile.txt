@@ -1,0 +1,2 @@
+this is a file this is appended text
+Here it is on a new line
